@@ -81,6 +81,10 @@
         "name": "playlist",
         "type": "list",
         "itemname": "Item",
+        "playlist":{
+            "media_field":"file",
+            "duration_field":"duration"
+         },
         "items": [{
             "title": "Asset",
             "ui_width": 8,
